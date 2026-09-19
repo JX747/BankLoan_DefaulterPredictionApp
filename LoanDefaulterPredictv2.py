@@ -138,7 +138,7 @@ async def read_root():
                 <body>
                 <h1>Predict Bank Loan Defaulter</h1>    
             
-                <button onclick="loadData()">Load Summary</button>
+                <button onclick="loadData()">Load Prediction</button>
                
                        <table id="summaryTable">
                            <thead>
